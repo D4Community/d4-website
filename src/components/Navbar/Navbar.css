@@ -46,8 +46,19 @@
     color: #fff;
 }
 
-.d4_navbar_links_container a:hover {
-    border-bottom: 2px solid red;
+.d4_navbar_links_container a:hover ,.d4_navbar_menu_container a:hover {
+    padding: 0.5rem 1rem;
+    color: #fff;
+    background: transparent;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 0;
+    outline: none;
+    border:2px solid #ff4820;
 }
 
 .d4_navbar_joinus button,
@@ -64,7 +75,11 @@
     border: 0;
     outline: none;
 }
-
+.d4_navbar_joinus button:hover,
+.d4_navbar_menu_container button:hover{
+    background: transparent;
+    border: 2px solid #ff4820;
+}
 .d4_navbar_menu {
     margin-left: 1rem;
     display: none;
