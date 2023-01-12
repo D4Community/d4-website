@@ -1,0 +1,90 @@
+.d4__header {
+    display: flex;
+    flex-direction: row;
+}
+
+.d4__header-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+
+    margin-right: 5rem;
+}
+
+.d4__header-content h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+}
+
+.d4__header-content span {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+}
+
+.d4__header-content p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: var(--color-text);
+
+    margin-top: 1.5rem;
+}
+
+
+
+.d4__header-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.d4__header-image Spline scene {
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (max-width: 1050px) {
+    .d4__header {
+        flex-direction: column;
+    }
+
+    .d4__header-content {
+        margin: 0 0 3rem;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .d4__header-content h1 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+
+    .d4__header-content p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+
+}
+
+@media screen and (max-width: 490px) {
+    .d4__header-content h1 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+
+    .d4__header-content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+}
