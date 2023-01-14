@@ -30,7 +30,7 @@ const WhatisD4 = () => (
         text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus doloribus id rerum hic, quo molestiae qui tenetur"
       />
       <Feature
-        title="Debug"
+        title="Deploy"
         text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus doloribus id rerum hic, quo molestiae qui tenetur"
       />
     </div>
