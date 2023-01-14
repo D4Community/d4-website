@@ -13,10 +13,10 @@ const Navbar = () => {
         </div>
         <div className="d4_navbar_links_container">
           <p>
-            <a href="#Home">Home</a>
+            <a href="#home">Home</a>
           </p>
           <p>
-            <a href="#WhatisD4">What is D4</a>
+            <a href="#whatisd4">What is D4</a>
           </p>
           <p>
             <a href="#Team">Team</a>
@@ -49,10 +49,10 @@ const Navbar = () => {
             <div className="d4_navbar_menu_container_links">
               {" "}
               <p>
-                <a href="#Home">Home</a>
+                <a href="#home">Home</a>
               </p>
               <p>
-                <a href="#WhatisD4">What is D4</a>
+                <a href="#whatisd4">What is D4</a>
               </p>
               <p>
                 <a href="#Team">Team</a>

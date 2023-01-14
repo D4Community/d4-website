@@ -1,6 +1,7 @@
 .d4__header {
     display: flex;
     flex-direction: row;
+    margin-bottom: 6rem;
 }
 
 .d4__header-content {

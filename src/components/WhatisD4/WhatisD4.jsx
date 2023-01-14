@@ -3,7 +3,7 @@ import Feature from "../../components/Feature/Feature";
 import "./WhatisD4.css";
 
 const WhatisD4 = () => (
-  <div className="d4__WhatisD4 section__margin" id="wd4">
+  <div className="d4__WhatisD4 section__margin" id="whatisd4">
     <div className="d4__WhatisD4-feature">
       <Feature
         title="What is D4?"
@@ -30,7 +30,7 @@ const WhatisD4 = () => (
         text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus doloribus id rerum hic, quo molestiae qui tenetur"
       />
       <Feature
-        title="Debug"
+        title="Deploy"
         text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus doloribus id rerum hic, quo molestiae qui tenetur"
       />
     </div>
