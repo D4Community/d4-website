@@ -8,8 +8,9 @@ const Header = () => (
     <div className="d4__header-content">
       <h1 className="gradient__text">
         Let&apos;s Build Something amazing with
-      </h1>
+        <br />
       <span className="gradient__text"> D4-Community</span>
+      </h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ab cum
         asperiores consequatur corporis reprehenderit, accusantium laudantium

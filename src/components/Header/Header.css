@@ -4,6 +4,7 @@
     margin-bottom: 6rem;
 }
 
+
 .d4__header-content {
     flex: 1;
     display: flex;
@@ -22,13 +23,7 @@
     letter-spacing: -0.04em;
 }
 
-.d4__header-content span {
-    font-family: var(--font-family);
-    font-weight: 800;
-    font-size: 62px;
-    line-height: 75px;
-    letter-spacing: -0.04em;
-}
+
 
 .d4__header-content p {
     font-family: var(--font-family);
