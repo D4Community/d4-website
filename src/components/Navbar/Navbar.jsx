@@ -19,15 +19,17 @@ const Navbar = () => {
             <a href="#whatisd4">What is D4</a>
           </p>
           <p>
-            <a href="#Team">Team</a>
+            <a href="#members">Members</a>
           </p>
           <p>
-            <a href="#about us">About us</a>
+            <a href="#events">Events</a>
           </p>
         </div>
       </div>
       <div className="d4_navbar_joinus">
-        <button type="button">Join us</button>
+        <button type="button">
+          <a href="#joinus">Join us</a>
+        </button>
       </div>
       <div className="d4_navbar_menu">
         {toggleMenu ? (
@@ -55,17 +57,16 @@ const Navbar = () => {
                 <a href="#whatisd4">What is D4</a>
               </p>
               <p>
-                <a href="#Team">Team</a>
+              <a href="#members">Members</a>
               </p>
               <p>
-              <a href="#Events">Events</a>
-              </p>
-              <p>
-                <a href="#about us">About us</a>
+                <a href="#events">Events</a>
               </p>
             </div>
             <div className="d4_navbar_menu_container_links_joinus">
-              <button type="button">Join us</button>
+              <button type="button">
+                <a href="#joinus">Join us</a>
+              </button>{" "}
             </div>
           </div>
         )}
