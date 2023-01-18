@@ -1,12 +1,10 @@
 import React from "react";
-// import Slider from "react-slick";
 import "./App.css";
-import Cards from "./components/Cards/Cards";
-import Founders from "./components/Foundes/Founders";
+import Members from "./components/Members/Members";
 import Header from "./components/Header/Header";
 import Navbar from "./components/Navbar/Navbar";
 import WhatisD4 from "./components/WhatisD4/WhatisD4";
-// import Slider from "./components/Slider/Slider";
+
 
 const App = () => {
   return (
@@ -15,9 +13,7 @@ const App = () => {
         <Navbar />
         <Header />
         <WhatisD4 />
-        {/* <Slider /> */}
-        <Founders/>
-        <Cards/>
+        <Members/> 
       </div>
     </div>
   );
