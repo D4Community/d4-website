@@ -22,27 +22,27 @@ const Footer = () => {
             <img src={logo} alt="d4_logo" />
             <ul className="sci">
               <li>
-                <a href="">
+                <a href="https://github.com/">
                   <BsGithub />
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.linkedin.com/feed/">
                   <BsLinkedin />
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.instagram.com/">
                   <BsInstagram />
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://twitter.com/">
                   <BsTwitter />
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://discord.com/">
                   <BsDiscord />
                 </a>
               </li>
