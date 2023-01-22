@@ -5,7 +5,7 @@ const Header = () => (
   <div className="d4__header section__padding" id="home">
     <div className="d4__header-content">
       <h1 className="gradient__text">
-        Let&apos;s Build Something amazing with
+        Let&apos;s Build Something Amazing With
         <br />
       <span className="gradient__text"> D4-Community</span>
       </h1>
