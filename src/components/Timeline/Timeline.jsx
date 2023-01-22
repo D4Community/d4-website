@@ -11,10 +11,8 @@ const Timeline = () => {
               <div className="timeline-dot"></div>
               <div className="timeline-date">{Event.EventDate}</div>
               <div className="timeline-content">
-                <h3>{Event.Eventname}</h3>
-                <p>
-                    {Event.AboutEvent}
-                </p>
+                  <h3>{Event.Eventname}</h3>
+                <p>{Event.AboutEvent}</p>
               </div>
             </div>
           ))}

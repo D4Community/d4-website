@@ -2,7 +2,7 @@ export const Data = [
   {
     id: 1,
     name: "Sagar Malhotra",
-    skill: "App Development",
+    skill: "Android Development",
     Img: "https://media.licdn.com/dms/image/C4E03AQE1Lr4CLC4G4g/profile-displayphoto-shrink_400_400/0/1624091175803?e=1678924800&v=beta&t=hh5odYis2CrZINrURDVmTsvujBkzfeNfPWX6-jTZK_Q",
     gitLink: "https://github.com/Sagar0-0",
     linkedinLink: "https://www.linkedin.com/in/sagar0-0malhotra/",

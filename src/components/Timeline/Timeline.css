@@ -1,5 +1,6 @@
 .Timeline{
     margin:0 2rem  ;
+	font-family: var(--font-family);
 }
 .timeline-section{
 	min-height: 100vh;
@@ -38,7 +39,7 @@
 .timeline-dot{
 	height: 16px;
 	width: 16px;
-	background-color: orange;
+	background-color: #ff4820;
 	position: absolute;
 	left: calc(50% - 8px);
 	border-radius: 50%;
@@ -46,7 +47,7 @@
 }
 .timeline-date{
 	font-size: 18px;
-	color: orange;
+	color: #ff4820;
 	margin:6px 0 15px;
 }
 .timeline-content{
@@ -59,7 +60,8 @@
 	color: #ffffff;
 	margin:0 0 10px;
 	text-transform: capitalize;
-	font-weight: 500;
+	font-weight: bold;
+	
 }
 .timeline-content p{
     color: #c8c8c8;

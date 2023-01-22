@@ -45,18 +45,14 @@
 }
 
 .d4_navbar_links_container a:hover ,.d4_navbar_menu_container a:hover {
-    padding: 0.5rem 1rem;
+    padding: 0.5rem;
     color: #fff;
     font-family: var(--font-family);
-    font-weight: 500;
-    font-size: 18px;
-    line-height: 25px;
     border-radius: 5px;
     cursor: pointer;
-    border: 0;
     outline: none;
     background: transparent;
-    border:2px solid #ff4820;
+    border-bottom:2px solid #ff4820;
 }
 
 .d4_navbar_joinus button,

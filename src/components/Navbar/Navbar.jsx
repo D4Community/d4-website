@@ -47,7 +47,7 @@ const Navbar = () => {
         )}
 
         {toggleMenu && (
-          <div className="d4_navbar_menu_container scale_up_center">
+          <div className="d4_navbar_menu_container">
             <div className="d4_navbar_menu_container_links">
               {" "}
               <p>

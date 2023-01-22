@@ -9,10 +9,12 @@ const Cards = () => {
   const settings = {
     dots: true,
     infinite: true,
-    speed: 1000,
+    speed: 500,
     slidesToShow: 3,
     slidesToScroll: 1,
     initialSlide: 1,
+    autoplay:true,
+    autoplaySpeed:2000,
     responsive: [
       {
         breakpoint: 1024,
