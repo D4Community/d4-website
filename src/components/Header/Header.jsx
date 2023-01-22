@@ -18,7 +18,7 @@ const Header = () => (
 
     <div className="d4__header-image">
       {" "}
-     <img src={HeaderImg} alt="" />
+     <img src={HeaderImg} alt="header img" />
     </div>
   </div>
 );
