@@ -1,7 +1,7 @@
 .d4__header {
     display: flex;
     flex-direction: row;
-    margin-bottom: 6rem;
+    margin-bottom: 4rem;
 }
 
 
@@ -44,7 +44,7 @@
     align-items: center;
 }
 
-.d4__header-image Spline scene {
+.d4__header-image img {
     width: 100%;
     height: 100%;
 }

@@ -3,7 +3,6 @@
     justify-content: space-between;
     align-items: center;
     padding: 2rem 4rem;
-    /* position:sticky ; */
 }
 
 .d4_navbar_links {
@@ -18,9 +17,7 @@
 }
 
 .d4_navbar_links_logo img {
-    width: 70px;
-    /* height: 90px; */
-}
+    width: 70px;}
 
 .d4_navbar_links_container {
     display: flex;

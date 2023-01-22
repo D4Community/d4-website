@@ -1,7 +1,5 @@
-import React from "react";
-// import people from '../../assets/people.png';
-import Spline from "@splinetool/react-spline";
-// import globe from '../../assets/globe-500.h264.gif';
+import React from "react"
+import HeaderImg from '../../assets/header.webp';
 import "./Header.css";
 const Header = () => (
   <div className="d4__header section__padding" id="home">
@@ -20,7 +18,7 @@ const Header = () => (
 
     <div className="d4__header-image">
       {" "}
-      <Spline scene="https://prod.spline.design/lEwM4nvkbtM9sUdJ/scene.splinecode" />
+     <img src={HeaderImg} alt="" />
     </div>
   </div>
 );
