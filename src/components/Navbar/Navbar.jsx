@@ -6,7 +6,8 @@ const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
 
   return (
-    <div className="d4_navbar">
+    <nav className="blur">
+    <div className="d4_navbar ">
       <div className="d4_navbar_links">
         <div className="d4_navbar_links_logo">
           <img src={logo} alt="" />
@@ -47,7 +48,7 @@ const Navbar = () => {
         )}
 
         {toggleMenu && (
-          <div className="d4_navbar_menu_container">
+          <div className="d4_navbar_menu_container blur">
             <div className="d4_navbar_menu_container_links">
               {" "}
               <p>
@@ -72,6 +73,7 @@ const Navbar = () => {
         )}
       </div>
     </div>
+    </nav>
   );
 };
 

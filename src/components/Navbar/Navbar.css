@@ -1,3 +1,10 @@
+nav{
+    position: sticky;
+    top: 0;
+    z-index: 10000;
+    background: var(--color-bg);
+}
+
 .d4_navbar {
     display: flex;
     justify-content: space-between;
@@ -90,7 +97,7 @@
     align-items: flex-end;
     flex-direction: column;
     text-align: end;
-    background: var(--color-footer);
+    background: var(--color-bg);
     padding: 2rem;
     position: absolute;
     top: 40px;
