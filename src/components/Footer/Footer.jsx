@@ -7,6 +7,7 @@ import {
   BsInstagram,
   BsTwitter,
   BsDiscord,
+  BsWhatsapp,
 } from "react-icons/bs";
 const Footer = () => {
   return (
@@ -42,8 +43,13 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="https://discord.com/">
+                <a href="https://discord.gg/bCs4cpw9VS">
                   <BsDiscord />
+                </a>
+              </li>
+              <li>
+                <a href="https://chat.whatsapp.com/Khwy3LEyjdX4Kx8VJ1MXmW">
+                  <BsWhatsapp />
                 </a>
               </li>
             </ul>
