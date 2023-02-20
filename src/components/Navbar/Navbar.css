@@ -49,10 +49,13 @@ nav{
 
 .d4_navbar_links_container a, .d4_navbar_joinus a, .d4_navbar_menu_container a {
     color: #fff;
+    padding: 0.3rem;
+    border-bottom: 2px solid transparent;
+    transition: 0.2s ease-in-out;
 }
 
 .d4_navbar_links_container a:hover ,.d4_navbar_menu_container a:hover {
-    padding: 0.5rem;
+    padding: 0.4rem;
     color: #fff;
     font-family: var(--font-family);
     border-radius: 5px;
@@ -60,6 +63,7 @@ nav{
     outline: none;
     background: transparent;
     border-bottom:2px solid #ff4820;
+    transition: 0.2s ease-in-out;
 }
 
 .d4_navbar_joinus button,
