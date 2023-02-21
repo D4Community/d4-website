@@ -18,7 +18,7 @@ const WhatisD4 = () => (
     </div>
     <div className="d4__WhatisD4-container">
       <Feature
-        title="Descite"
+        title="Discite"
         text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus doloribus id rerum hic, quo molestiae qui tenetur"
       />
       <Feature
