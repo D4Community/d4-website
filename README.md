@@ -31,7 +31,7 @@ Add text...
 <a href="https://www.instagram.com/d4community"><img src="https://img.icons8.com/color/2x/instagram-new.png" height="60px"></img></a>
 <a href="https://chat.whatsapp.com/Khwy3LEyjdX4Kx8VJ1MXmW"><img src="https://user-images.githubusercontent.com/112506922/220969822-06bf50ca-20df-4a8e-88f1-158b00783e92.png" height="60px"></img></a>
 
-# 🧰 Contribute
+# 🚀 Contribute
 
 Contributions make the open source community an amazing place to learn, inspire, and create.
 
@@ -42,7 +42,7 @@ Before contributing, see <a href="https://github.com/D4Community/d4-website/blob
 
 Check out <a href="https://github.com/D4Community/d4-website/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a> to know inclusive environment that respects all contributions.
 
-## 🚀 Getting Started
+##  Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
