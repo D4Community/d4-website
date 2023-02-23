@@ -1,70 +1,68 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<img src="https://github.com/D4Community/d4-website/blob/master/src/assets/logo.png" height="180" >
+</p>
 
-## Available Scripts
+<h1  align= "center" id="logo"><a><img src="https://github.com/D4Community/d4-website/blob/master/src/assets/logo.png" height="40" style="vertical-align:middle;padding:0px 8px 10px 0px" alt="logo" />D4 Community</a></h1>
 
-In the project directory, you can run:
+# About Us
 
-### `npm start`
+Add text..
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## What is D4 Community?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Add text...
 
-### `npm test`
+<a href="https://d4community.netlify.app/">Visit</a> our website.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## D4 Community Website is built on?
 
-### `npm run build`
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Connect with us
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<a href="https://discord.com/invite/bCs4cpw9VS"><img src="https://img.icons8.com/color/2x/discord--v2.png" height="60px"></img></a>
+<a href="https://github.com/D4Community"><img src="https://img.icons8.com/ios-glyphs/2x/github.png" height="60px"></img></a>
+<a href="https://twitter.com/D4Community"><img src="https://img.icons8.com/fluency/2x/twitter.png" height="60px"></img></a>
+<a href="https://www.linkedin.com/company/d4community/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="60px"></img></a>
+<a href="https://www.instagram.com/d4community"><img src="https://img.icons8.com/color/2x/instagram-new.png" height="60px"></img></a>
+<a href="https://chat.whatsapp.com/Khwy3LEyjdX4Kx8VJ1MXmW"><img src="https://user-images.githubusercontent.com/112506922/220969822-06bf50ca-20df-4a8e-88f1-158b00783e92.png" height="60px"></img></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 🚀 Contribute
 
-### `npm run eject`
+Contributions make the open source community an amazing place to learn, inspire, and create.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Any contributions you make are **truly appreciated**.<br>
+Before contributing, see <a href="https://github.com/D4Community/d4-website/blob/master/CONTRIBUTING.md">Contribution guide</a> for more information.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Code of Conduct
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Check out <a href="https://github.com/D4Community/d4-website/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a> to know inclusive environment that respects all contributions.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+##  Getting Started
 
-## Learn More
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 🧾 Prerequisites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Before starting out, you'll need to install the following on your computer.
 
-### Code Splitting
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/download/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 🛠️ Installation
 
-### Analyzing the Bundle Size
+1. Fork the repo
+2. Clone the repository `git clone https://github.com/D4Community/d4-website.git `
+3. Run `npm i` Or `npm install`to install all dependencies
+4. Run `npm start` to start the application
+5. Visit `https://localhost:3000` to view the application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Thanks to all the contributors ❤️
 
-### Making a Progressive Web App
+<img src="https://contrib.rocks/image?repo=D4Community/d4-website"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
