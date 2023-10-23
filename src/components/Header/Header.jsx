@@ -10,9 +10,9 @@ const Header = () => (
       <span className="gradient__text"> D4-Community</span>
       </h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ab cum
-        asperiores consequatur corporis reprehenderit, accusantium laudantium
-        laboriosam saepe explicabo ullam velit quasi iure repudiandae!
+      An open-source, student-driven organization committed to nurturing community growth.<br />
+      Our mission is to inspire and facilitate communication and collaboration among members of the tech community, share best practices, and promote technical expertise.<br />
+      We are dedicated to creating an inclusive environment that welcomes individuals of all skill levels, from absolute beginners to seasoned experts.
       </p>
     </div>
 
