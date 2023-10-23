@@ -3,12 +3,12 @@ export const EventData = [
       id: 1,
       EventDate:"February 2023",
       Eventname: "Google Developers Tech Show",
-      AboutEvent: "An event for developers, designers, marketers, and entrepreneurs to learn from experts in the field about the latest in Google technologies and developer products.",
+      AboutEvent: "An event for developers to learn from experts in the field about the latest in Google technologies and developer products.",
     },
     {
         id: 2,
         EventDate:"March 2023",
-        Eventname: "IdeaThone",
+        Eventname: "Ideathon",
         AboutEvent: "Pitch your idea to the world and get a chance to win exciting prizes and get a chance to work with the best companies in the world.",
     },
     {
