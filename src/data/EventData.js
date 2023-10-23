@@ -14,8 +14,8 @@ export const EventData = [
     {
         id: 3,
         EventDate:"May 2023",
-        Eventname: "D4-HackaThone",
-        AboutEvent: "A 24 hours hackathon for developers, designers, marketers, and entrepreneurs to learn from experts in the field about the latest in Google technologies and developer products.",
+        Eventname: "D4-Hackathon",
+        AboutEvent: "A 24 hours hackathon for developers from begineer to experienced to participate and create projects, get guidance from experts and win prizes along with making new connections and have fun along the way.",
     },
     {
         id: 4,
