@@ -1,21 +1,26 @@
 export const EventData = [
     {
       id: 1,
-      EventDate:"Feb 2023",
-      Eventname: "Google Developers Meet",
-      AboutEvent: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus laboriosam magni sequi totam molestiae cumque illo atque ut, fuga aliquid eligendi reprehenderit sed doloremque recusandae!",
+      EventDate:"February 2023",
+      Eventname: "Google Developers Tech Show",
+      AboutEvent: "An event for developers, designers, marketers, and entrepreneurs to learn from experts in the field about the latest in Google technologies and developer products.",
     },
     {
         id: 2,
-        EventDate:"Feb 2023",
-        Eventname: "D4-HackaThone",
-        AboutEvent: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus laboriosam magni sequi totam molestiae cumque illo atque ut, fuga aliquid eligendi reprehenderit sed doloremque recusandae!",
+        EventDate:"March 2023",
+        Eventname: "IdeaThone",
+        AboutEvent: "Pitch your idea to the world and get a chance to win exciting prizes and get a chance to work with the best companies in the world.",
     },
     {
         id: 3,
-        EventDate:"Feb 2023",
-        Eventname: "IdeaThone",
-        AboutEvent: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus laboriosam magni sequi totam molestiae cumque illo atque ut, fuga aliquid eligendi reprehenderit sed doloremque recusandae!",
+        EventDate:"May 2023",
+        Eventname: "D4-HackaThone",
+        AboutEvent: "A 24 hours hackathon for developers, designers, marketers, and entrepreneurs to learn from experts in the field about the latest in Google technologies and developer products.",
+    },
+    {
+        id: 4,
+        EventDate:"October 2023",
+        Eventname: "Innosprint",
+        AboutEvent: "A 24 hours national level hackathon for developers from beginners to seasoned experts to create projects, learn new skills, win prizes, and make new friends along the way.",
     },
   ];
-  
