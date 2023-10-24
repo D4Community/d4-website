@@ -1,9 +1,9 @@
 
 <p align="center">
-<img src="src/assets/logo.png" height="120">
+<img src="https://user-images.githubusercontent.com/85388413/220329457-fad38629-4100-4703-843c-125ef2bd1c3d.png" height="120">
 </p>
 
-<h1  align= "center"><a href="https://d4community.netlify.app/"">D4-Community Website</a></h1>
+<h1  align= "center"><a href="https://d4community.netlify.app/">D4-Community Website</a></h1>
 Website for the D4 Community that helps in keeping engagement with members and keeps them updated for the latest community updates/events.
 
 ### 🛠️ Installation
