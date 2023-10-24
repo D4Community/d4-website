@@ -19,7 +19,7 @@ const WhatisD4 = () => (
     <div className="d4__WhatisD4-container">
       <Feature
         title="Discite"
-        text="Dream it!! The exciting  phase where you dream up what you want to create. You brainstorming, envision and plan your project."
+        text="Develop Skills!! This is the first step in your journey. Learn the basics of programming and get a solid foundation."
       />
       <Feature
         title="Develop"
