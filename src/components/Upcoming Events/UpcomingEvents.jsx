@@ -5,7 +5,8 @@ const UpcomingEvents = () => {
   return (
     <div className="UpcomingEvents" id="events">
       <div className="Heading gradient__text">
-        <h1>Upcoming-Events</h1>{" "}
+        {/* Only this heading has been changed, every where the events are identified by 'upcoming events' */}
+        <h1>Events and Happenings</h1>{" "}
       </div>{" "}
       <Timeline/>
     </div>
