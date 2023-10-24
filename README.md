@@ -1,6 +1,6 @@
- 
+
 <p align="center">
-<img src="https://github.com/D4Community/d4-website/blob/master/src/assets/logo.png" height="120">
+<img src="src/assets/logo.png" height="120">
 </p>
 
 <h1  align= "center"><a href="https://d4community.netlify.app/"">D4-Community Website</a></h1>
@@ -15,7 +15,7 @@ Website for the D4 Community that helps in keeping engagement with members and k
 5. Visit `https://localhost:3000` to view the application
 
 
-## ⚙️ Tech Stack/ Libraries used: 
+## ⚙️ Tech Stack/ Libraries used:
 1. [React](https://reactjs.org/)
 2. [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 3. [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -47,4 +47,3 @@ Check out <a href="https://github.com/D4Community/d4-website/blob/master/CODE_OF
 ## Thanks to all the contributors ❤️
 
 <img src="https://contrib.rocks/image?repo=D4Community/d4-website"/>
-
