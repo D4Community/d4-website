@@ -74,14 +74,14 @@ export const Data = [
     name: "Bhargav Reddy",
     skill: "Web Developer",
     Img: "https://media.licdn.com/dms/image/D4D03AQGWPbrC9SSQ_A/profile-displayphoto-shrink_800_800/0/1698146744734?e=1703721600&v=beta&t=uNIcNbugEHfb4jCFfzuLzT5f7Lk3hvfSMeVgVJh-VSY",
-    gitLink: "https://github.com/Anshika2509",   //LEFT
+    gitLink: "https://github.com/bhargavbijjam",   
     linkedinLink: "https://www.linkedin.com/in/bijjam-madhana-bhargav-reddy-087806249/",
     twitterLink: "https://twitter.com/Bhargav_Bijjam",
   },
   {
     id: 9,
     name: "Devishi Aggarwal",
-    skill: "App Developer",    //LEFT
+    skill: "UI/UX Developer",    
     Img: "https://pbs.twimg.com/profile_images/1714702715170025474/m7qY13QL_400x400.jpg",
     gitLink: "https://github.com/devishi16858",
     linkedinLink: "https://www.linkedin.com/in/devishiaggarwal/",
