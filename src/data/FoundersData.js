@@ -3,8 +3,12 @@ export const Data = [
     id: 1,
     name: "Sagar Malhotra",
     skill: "Android Development",
+
     Img: "https://pbs.twimg.com/profile_images/1571891970620162052/IhiTScTs_400x400.jpg",
     bioDrop: "https://www.biodrop.io/Sagar0-0",
+
+    Img: "https://avatars.githubusercontent.com/u/85388413?v=4",
+
     gitLink: "https://github.com/Sagar0-0",
     linkedinLink: "https://www.linkedin.com/in/sagar0-0malhotra/",
     twitterLink: "https://twitter.com/sagar0_o",
@@ -13,6 +17,7 @@ export const Data = [
     id: 2,
     name: "Ayush Tiwari",
     skill: "Frontend Developer",
+
     Img: "https://pbs.twimg.com/profile_images/1248953963954630660/RvNSueSq_400x400.jpg",
     bioDrop: "https://www.biodrop.io/Sagar0-0",   //LEFT
     gitLink: "https://github.com/Itsayu",
@@ -86,5 +91,32 @@ export const Data = [
     gitLink: "https://github.com/devishi16858",
     linkedinLink: "https://www.linkedin.com/in/devishiaggarwal/",
     twitterLink: "https://twitter.com/Devishi858",
+
+    Img: "https://avatars.githubusercontent.com/u/93567891?v=4",
+    gitLink: "https://github.com/Ranjeet0302Singh",
+    linkedinLink: "https://www.linkedin.com/in/ranjeet-singh-rawat-764692233/",
+    instaLink: "",
+    twitterLink: "",
+  },
+  {
+    id: 3,
+    name: "Ujjwal Kumar",
+    skill: "CEO of Shaurya Unitech Pvt. Ltd.",
+    Img: "https://media.licdn.com/dms/image/D4D03AQGE8PV6s0RpVw/profile-displayphoto-shrink_200_200/0/1691790722337?e=1703721600&v=beta&t=e0dL5jG5FPM727uOKq-xbkfbbfDlr-EG9qJkuqRlvyw",
+    gitLink: "",
+    linkedinLink: "https://www.linkedin.com/in/ujjwalkumar07/",
+    instaLink: "",
+    twitterLink: "",
+  },
+  {
+    id: 4,
+    name: "Ayush Tiwari",
+    skill: "Frontend Developer",
+    Img: "https://avatars.githubusercontent.com/u/94097145?v=4",
+    gitLink: "https://github.com/Itsayu",
+    linkedinLink: "https://www.linkedin.com/in/ayush-kumar-432801206/",
+    instaLink: "",
+    twitterLink: "",
+
   },
 ];
