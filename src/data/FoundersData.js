@@ -84,7 +84,6 @@ export const Data = [
     name: "Ayush Tiwari",
     skill: "Frontend Developer",
     Img: "https://pbs.twimg.com/profile_images/1248953963954630660/RvNSueSq_400x400.jpg",
-    bioDrop: "https://www.biodrop.io/Sagar0-0",   //LEFT
     gitLink: "https://github.com/Itsayu",
     linkedinLink: "https://www.linkedin.com/in/ayush-kumar-432801206/",
     twitterLink: "https://twitter.com/its_AKT_",
