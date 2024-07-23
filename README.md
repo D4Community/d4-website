@@ -13,6 +13,7 @@ Website for the D4 Community that helps in keeping engagement with members and k
 3. Run `npm i` Or `npm install`to install all dependencies
 4. Run `npm start` to start the application
 5. Visit `https://localhost:3000` to view the application
+6. Use node version 16.17.0 (Lts) 
 
 
 ## ⚙️ Tech Stack/ Libraries used:
