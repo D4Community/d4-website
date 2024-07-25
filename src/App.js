@@ -21,22 +21,20 @@ const theme = {
   },
 };
 
-function App() {
+const App = () => {
   return (
     <ThemeProvider theme={theme}>
-      return (
-    <div className="App">
-      <div className="gradient__bg">
-        <Navbar />
-        <Header />
-        <WhatisD4 />
-        <Members/> 
-        <UpcomingEvents/>
-        <GoToTop />
-        <Footer/>
+      <div className="App">
+        <div className="gradient__bg">
+          <Navbar />
+          <Header />
+          <WhatisD4 />
+          <Members /> 
+          <UpcomingEvents />
+          <GoToTop />
+          <Footer />
+        </div>
       </div>
-    </div>
-  );
     </ThemeProvider>
   );
 }
