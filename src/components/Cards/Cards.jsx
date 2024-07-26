@@ -45,7 +45,10 @@ const Cards = () => {
   return (
     <div className="cards">
       <Slider {...settings}>
-        {Data.map((item) => (
+        {Data.map((item, index)   =>
+        
+        (
+          
           <div className="card">
             <div className="imgBox">
               <img src={item.Img} alt={item.name} />
